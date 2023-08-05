@@ -1,23 +1,15 @@
 {
   "name": "TREASURY",
   "version": "1.0.0",
-  "description": "coded by asim hayat Email: chaudhryasim5@gmail.com",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "run": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/asim07/Sweeper.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/asim07/Sweeper/issues"
-  },
-  "homepage": "https://github.com/asim07/Sweeper#readme",
   "dependencies": {
     "@openzeppelin/contracts": "^4.9.3",
     "@uniswap/v2-periphery": "^1.1.0-beta.0"

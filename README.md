@@ -58,7 +58,7 @@ Ensure the robustness of the smart contract by running the test suite:
 
 The smart contract has been deployed on the Polygon Mumbai testnet. You can interact with the contract at the following address:
 
-Deployed Contract Address: [Contract Address]
+Deployed Contract Address: ```0x167775f18E06Fe02852270a2eC6D06a22Df0af3b```
 
 ## License
 
